@@ -1,0 +1,16 @@
+export const breeds = [
+  { id: 0, name: 'retriever' },
+  { id: 1, name: 'labrador' },
+  { id: 2, name: 'bulldog' },
+  { id: 3, name: 'beagle' },
+  { id: 4, name: 'poodle' },
+  { id: 5, name: 'pointer' },
+  { id: 6, name: 'rottweiler' },
+  { id: 7, name: 'husky' },
+  { id: 8, name: 'pomeranian' },
+  { id: 9, name: 'shiba' },
+  { id: 10, name: 'boxer' },
+  { id: 11, name: 'pug' },
+  { id: 12, name: 'collie' },
+  { id: 14, name: 'mastiff' },
+];
